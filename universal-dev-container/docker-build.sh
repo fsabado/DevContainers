@@ -1,0 +1,1 @@
+docker build -t fs8080/universal-dev-container:latest .
